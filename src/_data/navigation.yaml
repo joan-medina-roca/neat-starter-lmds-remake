@@ -1,10 +1,14 @@
 ---
 items:
-  - text: Menu One
+  - text: Cursos
     url: "#"
-  - text: Menu Two
+  - text: Poblacions
     url: "#"
-  - text: Menu Three
+  - text: Horaris
     url: "#"
-  - text: Blog
-    url: "/blog"
+  - text: Preus
+    url: "#"
+  - text: Inscripcions
+    url: "#"
+  - text: Contacte
+    url: "#"

@@ -5,7 +5,10 @@ module.exports = {
       center: true,
     },
     extend: {
-      colors: {},
+      colors: {
+        "lmds-blue": "#009ace",
+        "lmds-pink": "#dd0863",
+      },
     },
   },
   variants: {},

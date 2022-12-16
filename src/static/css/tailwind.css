@@ -2,7 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+
 /*Your Custom CSS Goes here*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@layer base {
+  .nav__item{
+    font-family: Roboto Condensed, system-ui, sans-serif;
+  }
+}
 
 h1 {
   @apply text-4xl tracking-tighter mb-3 text-center lg:text-7xl;
